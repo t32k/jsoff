@@ -1,0 +1,20 @@
+{
+   "name": "jsoff",
+   "version": "1.0.1",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18",
+   "background" : {
+    "scripts": ["extension.js"]
+   },
+   "browser_action": {
+      "default_icon": "img/icon19.png",
+      "default_title": "OFF"
+   },
+   "description": "One click JavaScript off extension.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "permissions": [ "contentSettings" ]
+}
