@@ -10,5 +10,6 @@
 
 ## Release History
 
++ 2013/03/23 - v1.1.0 - Change icons.
 + 2012/09/18 - v1.0.1 - Support manifest version 2.
 + 2012/03/23 - v1.0.0 - Release.

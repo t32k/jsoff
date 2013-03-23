@@ -1,20 +1,19 @@
 {
    "name": "jsoff",
-   "version": "1.0.1",
-   "manifest_version": 2,
-   "minimum_chrome_version": "18",
-   "background" : {
-    "scripts": ["extension.js"]
+   "description": "One click JavaScript off extension.",
+   "version": "1.1.0",
+   "icons": {
+      "16": "icon_16.png",
+      "48": "icon_48.png",
+      "128": "icon_128.png"
    },
    "browser_action": {
-      "default_icon": "img/icon19.png",
+      "default_icon": "img/badge_on.png",
       "default_title": "OFF"
    },
-   "description": "One click JavaScript off extension.",
-   "icons": {
-      "128": "img/icon128.png",
-      "16": "img/icon16.png",
-      "48": "img/icon48.png"
+   "background" : {
+    "scripts": ["background.js"]
    },
-   "permissions": [ "contentSettings" ]
+   "permissions": [ "contentSettings" ],
+   "manifest_version": 2
 }

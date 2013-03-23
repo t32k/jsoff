@@ -14,7 +14,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 			color: [20, 130, 220, 140]
 		});
 		chrome.browserAction.setIcon({
-			path: 'img/icon19_off.png'
+			path: 'img/badge_off.png'
 		});
 		chrome.browserAction.setTitle({
 			title: 'ON'
@@ -30,7 +30,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 			text: ''
 		});
 		chrome.browserAction.setIcon({
-			path: 'img/icon19.png'
+			path: 'img/badge_on.png'
 		});
 		chrome.browserAction.setTitle({
 			title: 'OFF'
