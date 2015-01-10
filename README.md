@@ -2,7 +2,7 @@
 
 > This is a chrome extension to disable JavaScript execution with one click.
 
-![](https://raw.github.com/t32k/jsoff/master/img/_preview.png "Preview")
+![](/icon/preview.png)
 
 ## Download
 
