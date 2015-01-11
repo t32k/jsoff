@@ -5,7 +5,7 @@
 
 ## How to Use
 
-[![](/artworks/preview.png)](https://www.youtube.com/watch?v=DO2NLd-PUJw)
+[![capture](/artworks/youtube.png)](https://www.youtube.com/watch?v=DO2NLd-PUJw)
 
 
 
