@@ -1,16 +1,14 @@
 {
   "name": "jsoff",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "manifest_version": 2,
-  "description": "This is a chrome extension to disable JavaScript execution with one click.",
+  "description": "A chrome extension to disable JavaScript with one click.",
   "icons": {
     "16": "images/icon-32.png",
     "128": "images/icon-256.png"
   },
   "background": {
-    "scripts": [
-      "scripts/background.js"
-    ]
+    "scripts": ["scripts/background.js"]
   },
   "browser_action": {
     "default_icon": {
@@ -19,5 +17,5 @@
     },
     "default_title": "JavaScript: ON"
   },
-  "permissions": ["contentSettings"]
+  "permissions": ["contentSettings", "tabs"]
 }
