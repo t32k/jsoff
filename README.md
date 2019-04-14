@@ -2,8 +2,6 @@
 
 > A chrome extension to disable JavaScript with one click.
 
-## How to Use
-
 [![capture](/artworks/ss.png)](https://www.youtube.com/watch?v=DO2NLd-PUJw)
 
 ## Download
